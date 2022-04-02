@@ -5,6 +5,7 @@ from math import sqrt
 import random
 import pickle
 import time
+import pandas
 
 def initializeWeights(n_in,n_out):
     """
